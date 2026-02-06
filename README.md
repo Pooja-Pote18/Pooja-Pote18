@@ -28,7 +28,6 @@
 
 **Concepts:**
 
-- Python
 - Data Analytics  
 - NLP  
 - Problem Solving  
@@ -70,7 +69,7 @@
 
 ### ⚡ Fun Fact
 
-I enjoy solving logical problems and building projects that solve real-world issues 
+I enjoy solving logical problems and building projects that solve real-world issues .
 
 Thanks for visiting my profile 😊
 
