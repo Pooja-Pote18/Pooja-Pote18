@@ -11,7 +11,8 @@
 - 💡 Interested in **Data Analytics, AI, and Python**
 - 💬 Ask me about **Python programming, SQL, and beginner-level data analytics** 
 - 📫 Reach me at: **github.com/Pooja-Pote18**
-- LinkedIn: linkedin.com/in/pooja-pote
+- 🌐 LinkedIn: **https://www.linkedin.com/in/pooja-pote-5a4526331/**
+
 
 ---
 
