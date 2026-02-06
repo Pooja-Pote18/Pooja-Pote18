@@ -64,7 +64,7 @@
 
 ### 🌐 Connect With Me
 
-[![GitHub]  (https://img.shields.io/badge/GitHub-Pooja--Pote18-black?style=for-the-badge&logo=github)](https://github.com/Pooja-Pote18)
+[![GitHub](https://img.shields.io/badge/GitHub-Pooja--Pote18-black?style=for-the-badge&logo=github)](https://github.com/Pooja-Pote18)
 
 ---
 
